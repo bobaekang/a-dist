@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2086a8"],{a564:function(t,e,a){"use strict";a.r(e);var s=function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("v-container",[a("v-flex",{attrs:{sm10:"","offset-sm1":""}},[a("h1",{staticClass:"view-title"},[t._v("Dataset")])])],1)},n=[],l={name:"dataset"},i=l,c=a("2877"),o=Object(c["a"])(i,s,n,!1,null,null,null);o.options.__file="Dataset.vue";e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d2086a8.57aa7ddf.js.map

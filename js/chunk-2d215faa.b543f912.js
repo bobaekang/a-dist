@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d215faa"],{c106:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("v-container",[n("h2",[t._v(t._s(t.title))]),n("h3",[t._v("With tag-specific buttons")])])},c=[],i={data:function(){return{title:"Search for the data!"}}},r=i,u=n("2877"),o=Object(u["a"])(r,a,c,!1,null,null,null);o.options.__file="Search.vue";e["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d215faa.b543f912.js.map

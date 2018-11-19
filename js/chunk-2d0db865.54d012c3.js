@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0db865"],{"6fdc":function(t,n,e){"use strict";e.r(n);var i=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("v-container",[e("h2",[t._v(t._s(t.title))])])},l=[],u={data:function(){return{title:"Highlights"}}},c=u,s=e("2877"),o=Object(s["a"])(c,i,l,!1,null,null,null);o.options.__file="HighlightApps.vue";n["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0db865.54d012c3.js.map
