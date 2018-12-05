@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225f0a"],{e713:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("v-container",[t("h2",[e._v("Article view")])])},i=[],r=(t("cadf"),t("551c"),t("097d"),{data:function(){return{}}}),u=r,a=t("2877"),l=Object(a["a"])(u,c,i,!1,null,null,null);l.options.__file="ArticleView.vue";n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d225f0a.7bea16e8.js.map
